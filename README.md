@@ -15,7 +15,6 @@ Adrian Aldridge
 > Adrian Aldridge
 
 > Gloria Sukidi
->>>>>>> 350a9192b74e35e3c3ca262e0767edf2fdcba043
 
 ## Description
 Our app will be a clothing shop. Customers can view available clothes, add to their cart and favorites list, checkout items within their cart, and write reviews on shops. Providers can list clothing for sale, view statisitics on active and past orders, and reply to customer reviews. The goals of this app is to provide students with a place on campus to buy and sell clothing. This app will provide a community for students to expand their wardrobe and sell clothing they don't want anymore.
